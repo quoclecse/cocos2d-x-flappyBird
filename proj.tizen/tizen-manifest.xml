@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3" package="com.siriarte.flappybird" version="1.0.0">
+    <ui-application appid="com.siriarte.flappybird" exec="hellocpp" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>cocos2d-x-flappyBird</label>
+        <icon>cocos2d-x-flappyBird.png</icon>
+    </ui-application>
+</manifest>
